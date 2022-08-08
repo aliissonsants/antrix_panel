@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "782492344868",
+    "project_id": "mixdrop-adminpanel",
+    "storage_bucket": "mixdrop-adminpanel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782492344868:android:42c67e73829e4c7b28eeb1",
+        "android_client_info": {
+          "package_name": "com.alissonsantos.dootopanel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "782492344868-0ai639q8usai90dl19evl7c3bv7phlqq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.alissonsantos.dootopanel",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "782492344868-h72fitiieo82419730ve25s0epaioqpv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHAwml5KpAPDwpyZcOwtlD190Gz7g7WbM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "782492344868-h72fitiieo82419730ve25s0epaioqpv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "782492344868-mobqf5g094c0osqpgog75k9mv9fu31cp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.alisson.uploadmixdrop"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

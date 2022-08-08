@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>782492344868-tc3vb5rr80b6pfic63t9un9fjupgu2ji.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.782492344868-tc3vb5rr80b6pfic63t9un9fjupgu2ji</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>782492344868-0ai639q8usai90dl19evl7c3bv7phlqq.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBn7FWwS3Efp3bh6Z1alvn1TJlQZt13yKQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>782492344868</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.alissonsantos.dootopanel</string>
+	<key>PROJECT_ID</key>
+	<string>mixdrop-adminpanel</string>
+	<key>STORAGE_BUCKET</key>
+	<string>mixdrop-adminpanel.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:782492344868:ios:cf8d1aac174ade4128eeb1</string>
+</dict>
+</plist>
